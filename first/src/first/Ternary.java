@@ -1,6 +1,6 @@
 package first;
 
-public class TernaryOperator {
+public class Ternary {
 
 	public static void main(String[] args) {
 		int v =1;

@@ -1,7 +1,8 @@
 package first;
+
 import java.util.Random;
 
-public class RelationalLogicalOperators {
+public class Relational {
 
 	public static void main(String[] args) {
 		Random rand = new Random();
@@ -11,6 +12,7 @@ public class RelationalLogicalOperators {
 		System.out.println("j="+j);
 		System.out.println(i>=j);
 		System.out.println(i<=j);
+
 	}
 
 }
